@@ -44,6 +44,9 @@ CONTAS.NOVAS.TXT    Arquivo de entrada adicional
 ## Relatorio Gerado
 
 ### Colunas até 72
+
 <img width="960" height="936" alt="Captura de tela 2026-06-05 002636" src="https://github.com/user-attachments/assets/988e6766-77d6-4bb4-8f2d-950d88d626bf" />
+
 ### Colunas após a 72
+
 <img width="960" height="940" alt="Captura de tela 2026-06-05 002644" src="https://github.com/user-attachments/assets/ea5beb88-84e7-4667-adf6-e2836dda51ad" />
